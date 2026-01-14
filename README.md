@@ -1,7 +1,7 @@
 # Calligraphy-style-generation-gan
 
-## Project Description
-This project uses a Generative Adversarial Network (GAN) to generate new calligraphy styles for handwritten letters. The model is trained on a custom calligraphy dataset containing multiple writing styles such as bold, italic, and artistic variations.
+## Hackathon Description
+This hackathon submission focuses on building a Generative Adversarial Network (GAN) to generate new calligraphy styles for handwritten letters. The model is trained on a custom calligraphy dataset containing multiple writing styles such as bold, italic, and artistic variations.
 
 ---
 
